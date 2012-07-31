@@ -1,0 +1,23 @@
+{
+    "name": "codegun/crypt",
+    "type": "library",
+    "description": "Crypt utils for PHP",
+    "keywords": ["crypt"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Corrie Zhao",
+            "email": "hfcorriez@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0",
+        "ext-mcrypt": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "CodeGun\\Util\\Crypt": "."
+        }
+    },
+    "target-dir": "CodeGun/Util/Crypt"
+}
