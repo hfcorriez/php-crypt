@@ -7,7 +7,7 @@ Crypt utils for PHP
 Installion
 ==============
 
-You can use `codegun/phprpc` to install with `composer.phar install`
+You can use `codegun/crypt` to install with `composer.phar install`
 
 
 Usage
