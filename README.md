@@ -1,4 +1,4 @@
-php-crypt
+Intro
 =========
 
 Crypt utils for PHP
@@ -7,7 +7,7 @@ Crypt utils for PHP
 Installion
 ==============
 
-You can use `codegun/crypt` to install with `composer.phar install`
+Add `codegun/crypt` to `composer.json` then install with `composer.phar install`
 
 
 Usage
