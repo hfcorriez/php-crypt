@@ -1,5 +1,7 @@
 <?php
 
+namespace CodeGun\Crypt;
+
 define("BCCOMP_LARGER", 1);
 
 class Rsa

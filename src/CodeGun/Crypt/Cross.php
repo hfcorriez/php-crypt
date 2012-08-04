@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeGun\Util\Crypt;
+namespace CodeGun\Crypt;
 
 class Cross
 {

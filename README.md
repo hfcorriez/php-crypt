@@ -10,10 +10,10 @@ Installion
 Add `codegun/crypt` to `composer.json` then install with `composer.phar install`
 
 
-Usage
+Namespace
 ==============
 
-All the classes under `CodeGun\Util\Crypt` namespace
+All the classes under `CodeGun\Crypt` namespace
 
 - Cross
 - Rsa

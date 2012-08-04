@@ -16,8 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CodeGun\\Util\\Crypt": "."
+            "CodeGun\\Crypt": "src/"
         }
-    },
-    "target-dir": "CodeGun/Util/Crypt"
+    }
 }
